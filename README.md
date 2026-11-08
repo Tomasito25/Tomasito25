@@ -1,4 +1,4 @@
-<h1 align="center">Soy Toms Esto es lo que tengo ahora en la mesa</h1>
+<h1 align="center">Soy Tomas, maker, piloto FPV, fan de la montaña pero sobre todo Cristiano. Esto es lo que tengo ahora en la mesa</h1>
 
 <p align="center">
 <img src="assets/tunel.webp" width="49%" alt="Maqueta de mi túnel de viento en sección, con un perfil NACA 2412 y las líneas de corriente, y encima 103 km/h, su velocidad récord.">
@@ -7,10 +7,10 @@
 
 <p align="center"><b>Túnel de viento.</b> Abierto, de succión y creado por mí. Su récord son <b>103 km/h</b>, y sirve para ensayar perfiles como un NACA 2412 impreso en 3D.</p>
 
-<p align="center"><b>UAV para búsqueda y rescate.</b> Un avión sin piloto para encontrar a gente perdida.<br>
+<p align="center"><b>UAV para búsqueda y rescate.</b> Un avión sin piloto para encontrar a gente perdida, esta todavia en construcción.<br>
 <kbd>3,5 m</kbd> <kbd>6,5 kg</kbd> <kbd>5 h de autonomía objetivo</kbd> <kbd>LW-PLA</kbd> <kbd>cámara térmica</kbd></p>
 
-<p align="center"><b>Carreras FPV.</b> Drones que se pilotan con gafas, viendo lo que ve su cámara. El mío es un OpenRacer de 5 pulgadas.</p>
+<p align="center"><b>Carreras FPV.</b> Drones que se pilotan con gafas, viendo lo que ve su cámara.</p>
 
 <h2 align="center">Y además programo</h2>
 
