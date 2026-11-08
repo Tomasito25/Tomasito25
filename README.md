@@ -1,6 +1,4 @@
-<h1 align="center">Construyo cosas que vuelan.</h1>
-
-<p align="center">Soy Tomasito. Esto es lo que tengo ahora en la mesa.</p>
+<h1 align="center">Soy Toms Esto es lo que tengo ahora en la mesa</h1>
 
 <p align="center">
 <img src="assets/tunel.webp" width="49%" alt="Maqueta de mi túnel de viento en sección, con un perfil NACA 2412 y las líneas de corriente, y encima 103 km/h, su velocidad récord.">
