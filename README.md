@@ -24,4 +24,4 @@
 <b><a href="https://github.com/Tomasito25/athos">ATHOS</a></b> · oraciones, Biblia y calendario litúrgico ortodoxo · <a href="https://tomasito25.github.io/athos/">abrir</a><br>
 <b><a href="https://github.com/Tomasito25/Get-Shit-Done">GSD</a></b> · tus tareas y, en grande, la única que importa hoy</p>
 
-<p align="center"><sub>React · TypeScript · Node.js · GitHub Actions · impresión 3D</sub></p>
+<p align="center"><sub>React · TypeScript · Node.js · Drones FPV · impresión 3D · CAD </sub></p>
